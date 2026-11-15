@@ -4,6 +4,8 @@ A decision support system that ranks 38 regencies/cities in East Java by
 social assistance priority, using K-Means clustering and TOPSIS, with an
 interactive Streamlit dashboard.
 
+**Live demo:** [Open the dashboard](https://social-assistance-priority-dss-bvhdcpmfapd3sedzam9eys.streamlit.app/)
+
 ## Problem
 
 Social assistance should reach the regions that need it most. This project
